@@ -1,1 +1,3 @@
-print (5*5)
+n=5*5
+print (n)
+print (n/5)
